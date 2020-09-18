@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
         editText =(EditText)findViewById(R.id.editTextTextPersonName);
         //String str=editText.getText().toString();
         Button btn=(Button)findViewById(R.id.btn);
+        //add something...
 
 
     }
